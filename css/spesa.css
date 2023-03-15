@@ -4,12 +4,11 @@ body {
   }
   ul {
     list-style-type: none;
-    padding: 0;
-    margin: 0;
   }
   li {
     padding: 8px;
     margin-bottom: 8px;
     border: 1px solid #ccc;
     border-radius: 4px;
+    background-color: rgba(228, 244, 243, 0.5);
   }
